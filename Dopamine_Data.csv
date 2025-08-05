@@ -1,4 +1,4 @@
-video_id,channel_name,video_title,freq_cut_per_video,video_duration_sec,dominant_color,view_count,title_word_count,video_category,is_for_kids,date_published_cleaned,key_dopamine_factor,dopamine_label
+video_id,channel_name,video_title,freq_cut_per_video,video_duration_sec,dominant_color,view_count,title_word_count,video_category,is_for_kids,date_published,key_dopamine_factor,dopamine_label
 ntv_sYztDes,Master Speak English,My Family,1,271,White,569,2,Informative,0,25-07-2025,No Dominant Factor,0
 vqVUZIFWfgg,Binge Central,The Most Expensive Celebrity Watches In The World,1,300,No Dominant Color,20109,8,Informative,0,26-04-2020,No Dominant Factor,0
 zZo-5DZNnEo,Mystery Science,Why don't people fall out of roller coasters when they go upside down?,1,414,Multi Colors,3458634,13,Informative,1,12-10-2021,Discovery,1
@@ -503,3 +503,4 @@ DS88TwUvzjM,coilbook,Sergeant Cooper the Police Car - Real City Heroes,1,762,Whi
 U_DhgLz_yBg,Mini Yummy,Tasty Idea Cook Delicious KFC x Lay's BBQ Crunch Chicken in Miniature Kitchen,1,244,Peach,9146773,12,Entertainment,0,03-09-2022,Eye Catching Miniatures,1
 IM38CTVKNbw,Vibe aura,You'll NEVER see your life the same way again...,0,295,Black,26,9,Motivation,0,24-07-2025,Engaging Narrative,0
 GFRgBJLjx6I,Max Fosh,I Hatched A Fish From Supermarket Caviar,1,620,White,5428054,7,Entertainment ,0,18-06-2023,Element of Surprise,1
+
