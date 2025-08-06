@@ -14,7 +14,7 @@ This dataset was created as part of a dopamine-based research project using mach
 | `video_id`               | YouTube video identifier                                     |
 | `channel_name`           | Channel name                                                 |
 | `video_title`            | Title of the video                                           |
-| `freq_cut_per_video`     | Count of fast cuts                                           |
+| `freq_cut_per_video`     | Binary flag for frequent cuts (1 if present, 0 if absent)    |
 | `video_duration_sec`     | Duration of the video in seconds                             |
 | `dominant_color`         | Dominant frame color (categorical)                           |
 | `view_count`             | Total number of views                                        |
@@ -66,21 +66,26 @@ This dataset was created as part of a dopamine-based research project using mach
 
 ## 📜 License
 
-This dataset is released under the **MIT License**.
+This dataset is licensed under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** license.
 
-> Permission is hereby granted, free of charge, to any person obtaining a copy  
-> of this dataset and associated documentation files (the "Dataset"), to deal  
-> in the Dataset without restriction, including without limitation the rights  
-> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-> copies of the Dataset, and to permit persons to whom the Dataset is  
-> furnished to do so, subject to the following conditions:
+You are free to:
 
-> The above copyright notice and this permission notice shall be included in all  
-> copies or substantial portions of the Dataset.
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
 
-**License File:** [`LICENSE`](./LICENSE)
+Under the following terms:
 
-[MIT License — Full Text](https://opensource.org/licenses/MIT)
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+## 👥 Contributors
+
+- **Sanjay Kumar Sakamuri Kamalakar** (Lead Creator, Dataset Design, Feature Engineering)  
+  GitHub: [@Sanjaykumar030](https://github.com/Sanjaykumar030)  
+  ORCID: [0009-0009-1021-2297](https://orcid.org/0009-0009-1021-2297)
+
+- **Jivanthikaa KK** (Co-author, Dataset Annotation and Curation)  
+  ORCID: [0009-0009-7939-3524](https://orcid.org/0009-0009-7939-3524)
+
 
 ## 📣 Citation
 
