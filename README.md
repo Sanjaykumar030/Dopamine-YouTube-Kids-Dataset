@@ -113,4 +113,4 @@ Under the following terms:
 ## 📣 Citation
 
 This dataset will be assigned a DOI upon publication via [Zenodo](https://zenodo.org).  
-Please cite it using the official Zenodo citation once available.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16755363.svg)](https://doi.org/10.5281/zenodo.16755363)
