@@ -54,6 +54,29 @@ This dataset was created as part of a dopamine-based research project using mach
 - **key_dopamine_factor**: Major trigger features like **familiarity**, **animation**, or **music repetition**; "No Dominant Factor" if none detected.
 - **dopamine_label**: Binary label manually assigned based on holistic feature evaluation. It reflects annotation judgment and is **not a definitive neuropsychological metric**.
 
+## Annotation Details
+
+This dataset was manually annotated by two contributors to ensure diverse perspectives and minimize bias in identifying dopamine-triggering content:
+
+- **250 videos annotated by a male annotator (Sanjay)**
+- **250 videos annotated by a female annotator (Jivanthikaa)**
+
+Each annotator followed a consistent set of dopamine-triggering criteria based on behavioral patterns such as repetitive music, jump cuts, fast pacing, exaggerated sounds, and vivid colors. Ambiguous cases were reviewed collaboratively.
+
+## Dataset Overview
+
+The dataset was carefully constructed to maintain **class balance** for key binary labels:
+
+- `dopamine_label`:  
+  - **250 videos labeled `1` (dopamine-triggering)**  
+  - **250 videos labeled `0` (not dopamine-triggering)**
+
+- `is_for_kids`:  
+  - **250 videos marked as designed for children**  
+  - **250 videos not specifically intended for children**
+
+This balance allows for unbiased training and evaluation in downstream machine learning tasks.
+
 ---
 
 ## ⚠️ Caution
