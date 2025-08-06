@@ -1,4 +1,5 @@
 # Dopamine-Triggering Indicators in Children's YouTube Videos
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16755363.svg)](https://doi.org/10.5281/zenodo.16755363)
 
 ## 📄 Description
 This dataset contains **500 manually annotated records** of dopamine-inducing features from **YouTube videos targeted at children**, alongside a control set of **non-children content**. It was curated to support **comparative behavioral analysis** between child-specific media and general YouTube content.
@@ -113,4 +114,3 @@ Under the following terms:
 ## 📣 Citation
 
 This dataset will be assigned a DOI upon publication via [Zenodo](https://zenodo.org).  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16755363.svg)](https://doi.org/10.5281/zenodo.16755363)
