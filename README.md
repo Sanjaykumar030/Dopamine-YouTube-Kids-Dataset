@@ -46,8 +46,6 @@ This judgment generated the `dopamine_label`:
 dopamine_label = 1 → High psychological stimulation
 dopamine_label = 0 → Normal or low stimulation
 
-markdown
-Copy code
 
 **Labeling was based on psychological experience.  
 No visual feature counts were referenced during labeling.**
@@ -64,8 +62,6 @@ This ensures a clean separation:
 Psychological Experience → Label
 Visual & Content Properties → Features
 
-yaml
-Copy code
 
 This allows machine learning models to **learn relationships rather than replicate labeling logic**.
 
